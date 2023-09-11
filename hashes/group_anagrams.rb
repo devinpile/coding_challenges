@@ -1,3 +1,6 @@
+#Create a method that takes a given set of words and sort them into collections of anagrams
+
+#psuedo:
 #create a hash to store groups of anagrams 
 #iterate through each string in the input array 
 #sort the string's characters in alphabetical order 
